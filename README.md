@@ -1,8 +1,5 @@
 # Jenkins End to End Pipeline
 
-## Youtube Video URL
-```
-https://youtu.be/l9mf8K3vBvQ
 ```
 ## Install Jenkins
 ```
@@ -362,4 +359,4 @@ https://support.sonatype.com/hc/en-us/articles/217542177?_ga=2.135356529.1307852
 ```
 
 ## Author
-- Vikram K (www.youtube.com/c/devopsmadeeasy)
+- Ligin George
